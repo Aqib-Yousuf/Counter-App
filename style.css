@@ -1,0 +1,54 @@
+body{
+    text-align: center;
+    margin-top: 150px;
+    font-style: normal;
+    font-weight: 200;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* button{
+    padding: 5px;
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: whitesmoke;
+    color: black;
+
+} */
+#count{
+    font-size: larger;
+    font-weight: 400;
+}
+
+.one{
+    background-color: rgb(127, 156, 127);
+    padding: 8px 32px;
+    margin: 15px;
+    font-size: 16px;
+    display: inline-block;
+    border-radius: 10px;
+    border: 1px transparent;
+    color: white;
+}
+
+.three{
+    background-color: rgb(150, 103, 86);
+    padding: 8px 32px;
+    margin: 15px;
+    font-size: 16px;
+    display: inline-block;
+    border-radius: 10px;
+    border: 1px transparent;
+    color: white;
+}
+
+.two{
+    background-color: rgb(230, 171, 22);
+    padding: 8px 32px;
+    margin: 15px;
+    font-size: 16px;
+    display: inline-block;
+    border-radius: 10px;
+    border: 1px transparent;
+    color: white;
+}
